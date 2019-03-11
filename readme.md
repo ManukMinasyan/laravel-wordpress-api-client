@@ -1,4 +1,4 @@
-#Haze420 - API
+# Haze420 - API
 General app structure.
 
 Documentation with Postman - https://www.getpostman.com/collections/0b6f57ecde50443a8b78.
